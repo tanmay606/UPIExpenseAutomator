@@ -2,7 +2,7 @@
 **Automate Expense Tracking from UPI Transactions via Gmail & Bank Statements**  
 
 📌 Overview  
-UPI Expense Automator is a Python-based tool that extracts UPI transaction data from **Gmail** and organizes it in an **Excel sheet** for easy expense tracking. The tool provides a categorized breakdown of daily spending, helping users manage their finances effortlessly. Future updates will introduce **bank statement support** and **AI-powered automatic transaction categorization**.  
+UPIx is a Python-based tool that extracts UPI transaction data from **Gmail** and organizes it in an **Excel sheet** for easy expense tracking. The tool provides a categorized breakdown of daily spending, helping users manage their finances effortlessly. Future updates will introduce **bank statement support** and **AI-powered automatic transaction categorization**.  
 
 📺 **Watch the Demo Video:** [YouTube Link](https://www.youtube.com/watch?v=-cNETYIj5BY&t=26s)  
 
