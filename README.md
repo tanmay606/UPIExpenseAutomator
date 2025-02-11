@@ -26,6 +26,9 @@ UPI Expense Automator is a Python-based tool that extracts UPI transaction data 
 
 ---
 
+![alt text](https://github.com/tanmay606/UPIExpenseAutomator/blob/main/Images/1.png?raw=true)
+![alt text](https://github.com/tanmay606/UPIExpenseAutomator/blob/main/Images/2.png?raw=true)
+
 ## 🌟 Roadmap  
 
 ### **✅ Version 1 (Current Release)**  
