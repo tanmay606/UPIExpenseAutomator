@@ -1,4 +1,4 @@
-💰 UPI Expense Automator  
+💰 UPIx - A Simple UPI Expense Tracker  
 **Automate Expense Tracking from UPI Transactions via Gmail & Bank Statements**  
 
 📌 Overview  
